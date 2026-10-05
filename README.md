@@ -4,6 +4,7 @@ A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omar
 
 ## 🧩 Plugins & desktop toys
 
+- [Koi Screensaver](https://github.com/ejuro/koi-screensaver) — two scenes, Koi Chase and Koi Pond, using your current theme’s colors. The Omarchy logo transforms into swimming koi.
 - [Extended Theme Picker](https://github.com/ejuro/omarchy-extended-theme-picker) — keep your growing Omarchy theme collection organized with favorites, collections, and a grid view.
 - [Theme Favorites](https://github.com/ejuro/omarchy-theme-favorites) — find out which Omarchy themes you actually use most, then export your top five to show off your taste.
 - [Blow Off Some Steam](https://github.com/ejuro/blow-off-some-steam) — a fun game for when you’re bored, angry or just waiting for your agents to finish.
