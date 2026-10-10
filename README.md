@@ -6,6 +6,7 @@ A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omar
 
 - [Koi Screensaver](https://github.com/erikrjohansson/koi-screensaver) — A custom and cozy screensaver with two scenes, Koi Chase and Koi Pond, using your current theme’s colors. The Omarchy logo transforms into swimming koi.
 - [Extended Theme Picker](https://github.com/erikrjohansson/omarchy-extended-theme-picker) — keep your growing Omarchy theme collection organized with favorites, collections, and a grid view.
+- [Extended Keybindings Viewer](https://github.com/erikrjohansson/omarchy-extended-keybindings-viewer) — Super + K with your keyboard and mouse on screen. Hold any key or combination to see what it does, or search for the one you’re looking for.
 - [Theme Favorites](https://github.com/erikrjohansson/omarchy-theme-favorites) — find out which Omarchy themes you actually use most, then export your top five to show off your taste.
 - [Blow Off Some Steam](https://github.com/erikrjohansson/blow-off-some-steam) — a fun game for when you’re bored, angry or just waiting for your agents to finish.
 - [Omi the Cat](https://github.com/erikrjohansson/omi-the-cat) — a tiny desktop pet that feeds on your spent tokens.
