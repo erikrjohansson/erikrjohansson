@@ -1,17 +1,17 @@
 # Hey, I’m Erik 👋
 
-A Swedish dabbler in all sorts, master of none. I’ve fallen deep down the Omarchy rabbit hole ever since the day I first installed it (454 days ago) and I’m having far too much fun. I make themes and mostly silly plugins for my own Omarchy desktop, then share them in case someone else enjoys them too.
+A Swedish dabbler in all sorts. I’m currently deep down in the Omarchy rabbit hole and have been so ever since the day I first installed it (462 days ago). I therefore spend most of my time creating Omarchy themes or silly plugins for my own desktop, then share them in case someone else enjoys them too.
 
 ## 🧩 Plugins & desktop toys
 
-- [Koi Screensaver](https://github.com/erikrjohansson/koi-screensaver) — A custom and cozy screensaver with two scenes, Koi Chase and Koi Pond, using your current theme’s colors. The Omarchy logo transforms into swimming koi.
-- [Extended Theme Picker](https://github.com/erikrjohansson/omarchy-extended-theme-picker) — keep your growing Omarchy theme collection organized with favorites, collections, and a grid view.
-- [Extended Keybindings Viewer](https://github.com/erikrjohansson/omarchy-extended-keybindings-viewer) — Super + K with your keyboard and mouse on screen. Hold any key or combination to see what it does, or search for the one you’re looking for.
-- [Theme Favorites](https://github.com/erikrjohansson/omarchy-theme-favorites) — find out which Omarchy themes you actually use most, then export your top five to show off your taste.
+- [Koi Screensaver](https://github.com/erikrjohansson/koi-screensaver) — A custom and cozy screensaver where the Omarchy logo transforms into swimming koi.
+- [Extended Theme Picker](https://github.com/erikrjohansson/omarchy-extended-theme-picker) — An extended theme picker for people like me who have way too many themes installed and want some easier organization.
+- [Extended Keybindings Viewer](https://github.com/erikrjohansson/omarchy-extended-keybindings-viewer) — An extended keybindings viewer with more of a visual way of exploring the Omarchy with your keyboard or mouse.
+- [Theme Favorites](https://github.com/erikrjohansson/omarchy-theme-favorites) — find out which Omarchy themes you actually use most, per week, per month, year and all time.
 - [Blow Off Some Steam](https://github.com/erikrjohansson/blow-off-some-steam) — a fun game for when you’re bored, angry or just waiting for your agents to finish.
 - [Omi the Cat](https://github.com/erikrjohansson/omi-the-cat) — a tiny desktop pet that feeds on your spent tokens.
 - [Phosphor CRT](https://github.com/erikrjohansson/phosphor-crt-overlay) — a retro CRT overlay.
-- [OmaMap](https://github.com/erikrjohansson/omamap) — track the countries you’ve visited.
+- [OmaMap](https://github.com/erikrjohansson/omamap) — track the countries you’ve visited in a interactive map.
 
 ## 🎨 Themes
 
