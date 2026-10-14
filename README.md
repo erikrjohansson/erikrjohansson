@@ -4,6 +4,7 @@ A Swedish dabbler in all sorts. I’m currently deep down in the Omarchy rabbit 
 
 ## 🧩 Plugins & desktop toys
 
+- [Hotkey Wheel](https://github.com/erikrjohansson/omarchy-hotkey-wheel) — A mouse-driven action wheel: hold middle-click, flick and release to run any app, Omarchy action, keybinding or your own custom command.
 - [Koi Screensaver](https://github.com/erikrjohansson/koi-screensaver) — A custom and cozy screensaver where the Omarchy logo transforms into swimming koi.
 - [Extended Theme Picker](https://github.com/erikrjohansson/omarchy-extended-theme-picker) — An extended theme picker for people like me who have way too many themes installed and want some easier organization.
 - [Extended Keybindings Viewer](https://github.com/erikrjohansson/omarchy-extended-keybindings-viewer) — An extended keybindings viewer with more of a visual way of exploring the Omarchy with your keyboard or mouse.
