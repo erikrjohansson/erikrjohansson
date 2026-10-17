@@ -10,8 +10,6 @@ A Swedish dabbler in all sorts. I’m currently deep down in the Omarchy rabbit 
 - [Extended Keybindings Viewer](https://github.com/erikrjohansson/omarchy-extended-keybindings-viewer) — An extended keybindings viewer with more of a visual way of exploring the Omarchy with your keyboard or mouse.
 - [Theme Favorites](https://github.com/erikrjohansson/omarchy-theme-favorites) — find out which Omarchy themes you actually use most, per week, per month, year and all time.
 - [Blow Off Some Steam](https://github.com/erikrjohansson/blow-off-some-steam) — a fun game for when you’re bored, angry or just waiting for your agents to finish.
-- [Omi the Cat](https://github.com/erikrjohansson/omi-the-cat) — a tiny desktop pet that feeds on your spent tokens.
-- [Phosphor CRT](https://github.com/erikrjohansson/phosphor-crt-overlay) — a retro CRT overlay.
 - [OmaMap](https://github.com/erikrjohansson/omamap) — track the countries you’ve visited in a interactive map.
 
 ## 🎨 Themes
