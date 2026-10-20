@@ -4,7 +4,7 @@ A Swedish dabbler in all sorts. I’m currently deep down in the Omarchy rabbit 
 
 ## 🧩 Plugins & desktop toys
 
-- [Machine Mark](https://github.com/erikrjohansson/omarchy-machine-mark) — Omarchy’s About window as a sigil drawn from your machine’s real specs, so every machine gets its own. Drag to knead it into a strip of rows and back.
+- [Machine Mark](https://github.com/erikrjohansson/omarchy-machine-mark) — Your Omarchy machine draws its own little mark from its specs and stats.
 - [Hotkey Wheel](https://github.com/erikrjohansson/omarchy-hotkey-wheel) — A mouse-driven action wheel: hold middle-click, flick and release to run any app, Omarchy action, keybinding or your own custom command.
 - [Koi Screensaver](https://github.com/erikrjohansson/koi-screensaver) — A custom and cozy screensaver where the Omarchy logo transforms into swimming koi.
 - [Extended Theme Picker](https://github.com/erikrjohansson/omarchy-extended-theme-picker) — An extended theme picker for people like me who have way too many themes installed and want some easier organization.
