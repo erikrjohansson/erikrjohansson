@@ -1,6 +1,6 @@
 # Hey, I’m Erik 👋
 
-A Swedish dabbler in all sorts. I’m currently deep down in the Omarchy rabbit hole and have been so ever since the day I first installed it (462 days ago). I therefore spend most of my time creating Omarchy themes or silly plugins for my own desktop, then share them in case someone else enjoys them too.
+A Swedish dabbler in all sorts. I’m currently deep down in the Omarchy rabbit hole and have been so ever since the day I first installed it (471 days ago). I therefore spend most of my time creating Omarchy themes or silly plugins for my own desktop, then share them in case someone else enjoys them too.
 
 ## 🧩 Plugins & desktop toys
 
